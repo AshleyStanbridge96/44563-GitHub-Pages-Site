@@ -4,7 +4,7 @@
 - At least 3 cooking pans (Recommendation: [Non-stick Pan Set](https://www.amazon.com/AmazonBasics-3-Piece-Non-Stick-Fry-Pan/dp/B074RPCNMX?ref=fsclp_pb_dp_6))
 - Normal kitchen bowl for mixing
 - Fork
-- Spatula (Recommendation: [Utensil Set](https://www.amazon.com/Silicone-nonstick-cookware-Utensils-Non-Toxic/dp/B07S8ZGFTZ/ref=sr_1_1_sspa?crid=3AAHMCSLHVRDL&keywords=kitchen+utensil+set+under+%2425&qid=1566849688&s=home-garden&sprefix=kitchen+ut&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVDVMMFA3UTVJMktMJmVuY3J5cHRlZElkPUEwMTU4ODk2Mk5EWUE5MkRSOEo3OSZlbmNyeXB0ZWRBZElkPUEwMTYwNzQyMjZPTTFKMVIwQUUxSSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)) If you want to cook more.
+- Spatula (Recommendation: [Utensil Set](https://www.amazon.com/Silicone-nonstick-cookware-Utensils-Non-Toxic/dp/B07S8ZGFTZ/ref=sr_1_1_sspa?crid=3AAHMCSLHVRDL&keywords=kitchen+utensil+set+under+%2425&qid=1566849688&s=home-garden&sprefix=kitchen+ut&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVDVMMFA3UTVJMktMJmVuY3J5cHRlZElkPUEwMTU4ODk2Mk5EWUE5MkRSOEo3OSZlbmNyeXB0ZWRBZElkPUEwMTYwNzQyMjZPTTFKMVIwQUUxSSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)if you want to cook more).
 - Toaster
 - Paper towels
 
@@ -25,7 +25,7 @@ The most important part of any breakfast is undeniably the eggs. The exciting pa
 And the list goes on. In this README, we will focus on how to make scrambled eggs, simply because it is the most common and traditional way.
 
 ### Prepping Food
-We will start by getting everything prepped before we turn on the stove. First get your kitchen bowl, fork, eggs, seasoning, and milk (optional). Crack however many eggs you desire into the kitchen bowl, then use your fork to whisk the eggs. Once the eggs are whisked, add a generous amount of salt and pepper and mix again. If you have milk and would like your eggs to be a little creamy, go ahead and add a tablespoon of milk to the mixed eggs and whisk again. 
+We will start by getting everything prepped before we turn on the stove. First, get your kitchen bowl, fork, eggs, seasoning, and milk (optional). Crack however many eggs you desire into the kitchen bowl, then use your fork to whisk the eggs. Once the eggs are whisked, add a generous amount of salt and pepper and mix again. If you have milk and would like your eggs to be a little creamy, go ahead and add a tablespoon of milk to the mixed eggs and whisk again. 
 ![Whisked Eggs](https://www.irishamericanmom.com/wp-content/uploads/2015/08/Whisked-eggs-before-scrambling.jpg) 
 Credit: https://www.irishamericanmom.com/smoked-salmon-scrambled-eggs-on-toast/whisked-eggs-before-scrambling/
 
@@ -51,6 +51,8 @@ When the eggs appear to be firm, this is a sign that they are almost done cookin
 Now that the eggs and bacon/sausage is cooked, we will focus on the pancakes, or in this case, a single pancake. You may cook more than one pancake if you wish, but this README will only talk about the cooking of one. Take your pancake batter and place it in the hot pan and wait to flip every 1 to 1 1/2 minutes until each side is golden brown. When you start the pancake(s), start toasting your bread. 
 ![Pancakes](https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco/https%3A%2F%2Fstorage.googleapis.com%2Fgen-atmedia%2F3%2F2017%2F12%2F0f833f5158ccb56145832ec90c9d12b4d6e0d0fe.jpeg)
 Credit: https://www.thekitchn.com/how-to-make-easy-vegan-pancakes-without-eggs-and-milk-252068
+
+Once the pancake and toast are done, turn off the stove top and start plating your food.
 
 ### Eat your Delicious Meal
 Congratulations! You have successfully made the perfect breakfast. Feel free to add your own finishing touches to any item to truly make it your own. 
